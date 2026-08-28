@@ -1,6 +1,6 @@
 # Prerequisites
 #####
-- NGINX 2.0
+- NGINX 3.0
 - JDK 17 
 - Maven 3.9 
 - MySQL 8
